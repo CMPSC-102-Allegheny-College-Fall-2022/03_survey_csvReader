@@ -1,5 +1,5 @@
-# Bioinformatics
-(CMPSC 300) Lab 4
+# Discrete Structures
+(CMPSC 102) survey 3
 
 This repository contains information about Discrete Structures Activity 04 for 5th of Oct 2022. This activity invites students to create a Poetry virtual environment for given code.
 
